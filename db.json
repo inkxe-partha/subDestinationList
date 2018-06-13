@@ -1,5 +1,6 @@
 
-[
+{
+  "subDestList":[
   {
     "id": 1,
     "name": "Manhattan",
@@ -29,3 +30,4 @@
     "imagePath": "https://s-media-cache-ak0.pinimg.com/originals/f6/3e/79/f63e798099ccb177dd3f8967ffdd8252.jpg"
   }
 ]
+}
